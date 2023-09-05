@@ -29,3 +29,5 @@ $$
 $$
 
 <https://www.rickowens.eu/en/DE/men>
+
+[купить рики](https://www.rickowens.eu/en/DE/men)
